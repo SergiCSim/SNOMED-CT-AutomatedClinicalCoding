@@ -23,7 +23,7 @@ The repository is organized into four main folders:
 
 Each folder contains further detailed information within.
 
-## Key Files
+## Other Files
 
 In addition to the folders, the repository includes three key files:
 
