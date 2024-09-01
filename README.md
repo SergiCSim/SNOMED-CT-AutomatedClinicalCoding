@@ -11,7 +11,7 @@ The repository is organized into four main folders:
   - The examples correspond to those used in the written report.
 
 - **`data/`**: 
-  - This folder is where all data should be stored. 
+  - This folder is where all notes and annotations data should be stored. 
   - Separated train-test data should be placed in the `train_test_data/` subfolder.
 
 - **`methods/`**: 
