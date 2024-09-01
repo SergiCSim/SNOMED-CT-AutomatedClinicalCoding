@@ -42,9 +42,9 @@ In addition to the folders, the repository includes three key files:
 The `methods/` folder contains the two modified methods:
 
 1. **Method 1**: 
-   - **Original Method**: The original source code for this method, along with instructions on how to run it and the necessary data, can be found at [this link](https://example.com/method1).
+   - **Original Method**: The original source code for this method, along with instructions on how to run it and the necessary data, can be found at [this link]([https://example.com/method1](https://github.com/drivendataorg/snomed-ct-entity-linking/tree/main/1st%20Place)).
    - **Modifications**: The contribution includes adding the file `score_mixing.py` to the `submissions/` folder, and modifying `main.py`.
 
 2. **Method 2**: 
-   - **Original Method**: The original source code for this method, along with instructions on how to run it and the necessary data, can be found at [this link](https://example.com/method2).
+   - **Original Method**: The original source code for this method, along with instructions on how to run it and the necessary data, can be found at [this link]([https://example.com/method2](https://github.com/drivendataorg/snomed-ct-entity-linking/tree/main/2nd%20Place)).
    - **Modifications**: The train-test process can be executed by running the `train_test.sh` bash script, which automatically divides the notes and annotations into train and test sets, and performs the training and testing processes.
