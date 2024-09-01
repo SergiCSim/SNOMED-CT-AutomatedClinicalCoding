@@ -49,3 +49,26 @@ The `methods/` folder contains the two modified methods:
 2. **Second Method**: 
    - **Original Method**: The original source code for this method, along with instructions on how to run it and the necessary data, can be found at [this link](https://github.com/drivendataorg/snomed-ct-entity-linking/tree/main/2nd%20Place).
    - **Modifications**: The train-test process can be executed by running the `train_test.sh` bash script, which automatically divides the notes and annotations into train and test sets, and performs the training and testing processes.
+
+
+### BibTex reference format for citation for the Code
+```
+@misc{ACCSergi,
+title={Automated Clinical Coding of Medical Notes into the SNOMED CT Medical Terminology Structuring System},
+url={https://github.com/axelbrando/Mixture-Density-Networks-for-distribution-and-uncertainty-estimation/},
+note={GitHub repository with the material of the Master Thesis in the field of automatic clinical coding.},
+author={Sergi Cantón Simó},
+  year={2024}
+}
+```
+### BibTex reference format for citation for the report of the Master's Thesis
+
+```
+@misc{ACCSergiMasterThesis,
+title={Automated Clinical Coding of Medical Notes into the SNOMED CT Medical Terminology Structuring System},
+url={https://github.com/axelbrando/Mixture-Density-Networks-for-distribution-and-uncertainty-estimation/blob/master/ABrando-MDN-MasterThesis.pdf},
+note={Report of the Master's Thesis: Automated Clinical Coding of Medical Notes into the SNOMED CT Medical Terminology Structuring System.},
+author={Sergi Cantón Simó},
+  year={2024}
+}
+```
